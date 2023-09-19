@@ -1,11 +1,3 @@
-🟢 Completed
-<br>
-🔵 Ongoing
-<br>
-🟡 On hold
-<br>
-🔴 Canceled
-<br>
 <div>
   <a href="https://github.com/HenDGS">
   <img align="center" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hendgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
