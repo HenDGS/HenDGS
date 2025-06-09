@@ -2,7 +2,7 @@
 
 <div>
   <a>
-    <img height=200 align="center" src="https://github-readme-stats-pi-taupe-72.vercel.app/api?username=hendgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height=200 align="center" src="https://github-readme-stats-pi-taupe-72.vercel.app/api?username=hendgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
   </a>  
     <a>
     <img height=200 align="center" src="https://github-readme-stats-pi-taupe-72.vercel.app/api/top-langs/?username=hendgs&hide=jupyter%20notebook,html,tex,scss&langs_count=8&layout=compact&theme=tokyonight"/>
